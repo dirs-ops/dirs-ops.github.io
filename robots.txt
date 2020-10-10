@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dirs-ops.github.io/sitemap.xml.gz
